@@ -1,6 +1,6 @@
 [
   {
-    "name": "Order Summary",
+    "name": "Order Summary Card",
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/gh4wbxnbnf9wqezb0b6y.jpg",
     "projectLink": "/fem/order-summary",
     "designLink": "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj",
@@ -8,10 +8,18 @@
     "completedAt": "October 11, 2021"
   },
   {
-    "name": "Stats Preview",
+    "name": "Stats Preview Card",
     "image": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/t26y9p3veejvbc9biv3f.jpg",
     "projectLink": "/fem/stats-preview",
     "designLink": "https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62",
+    "designer": "Frontend Mentor",
+    "completedAt": "October 13, 2021"
+  },
+  {
+    "name": "3 Columns Preview Card",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/juir90bwmmvlo86g9paz.jpg",
+    "projectLink": "/fem/3-columns-preview",
+    "designLink": "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-",
     "designer": "Frontend Mentor",
     "completedAt": "October 13, 2021"
   }

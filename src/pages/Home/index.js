@@ -43,7 +43,7 @@ function Home() {
               p={5}
               textAlign="center"
             >
-              <Heading as="h2" fontSize={25} mb={5}>
+              <Heading as="h2" fontSize={22} mb={5}>
                 {project.name}
               </Heading>
               <Text mb={2}>
