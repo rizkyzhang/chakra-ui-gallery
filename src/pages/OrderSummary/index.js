@@ -18,6 +18,7 @@ import { FaMusic } from "react-icons/fa";
 
 import Hero from "./images/illustration-hero.svg";
 import Desktop from "./images/pattern-background-desktop.svg";
+import "./index.css";
 
 function OrderSummary() {
   return (
