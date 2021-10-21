@@ -22,5 +22,13 @@
     "designLink": "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-",
     "designer": "Frontend Mentor",
     "completedAt": "October 13, 2021"
+  },
+  {
+    "name": "Profile Card",
+    "image": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/tsdyz2ccordcztyrn8m0.jpg",
+    "projectLink": "/fem/profile-card",
+    "designLink": "https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ",
+    "designer": "Frontend Mentor",
+    "completedAt": "October 21, 2021"
   }
 ]

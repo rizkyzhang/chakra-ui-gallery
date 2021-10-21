@@ -6,6 +6,7 @@ import OrderSummary from "./pages/OrderSummary";
 import StatsPreview from "./pages/StatsPreview";
 import ThreeColsPreview from "./pages/ThreeColsPreview";
 import Home from "./pages/Home";
+import ProfileCard from "./pages/ProfileCard";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           path="/fem/3-columns-preview"
           component={ThreeColsPreview}
         />
+        <Route exact path="/fem/profile-card" component={ProfileCard}></Route>
         <Route path="*" component={Home} />
       </Switch>
     </Router>
